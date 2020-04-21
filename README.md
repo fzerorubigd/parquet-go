@@ -1,6 +1,6 @@
 <h1 align="center">parquet-go</h1>
 <p align="center">
-        <a href="https://github.com/fraugster/parquet-go/releases"><img src="https://img.shields.io/github/tag/fraugster/parquet-go.svg?label=version&color=brightgreen"></a>
+        <a href="https://github.com/fraugster/parquet-go/releases"><img src="https://img.shields.io/github/v/tag/fraugster/parquet-go.svg?color=brightgreen&label=version&sort=semver"></a>
         <a href="https://circleci.com/gh/fraugster/parquet-go/tree/master"><img src="https://circleci.com/gh/fraugster/parquet-go/tree/master.svg?style=shield"></a>
         <a href="https://goreportcard.com/report/github.com/fraugster/parquet-go"><img src="https://goreportcard.com/badge/github.com/fraugster/parquet-go"></a>
         <a href="https://codecov.io/gh/fraugster/parquet-go"><img src="https://codecov.io/gh/fraugster/parquet-go/branch/master/graph/badge.svg"/></a>
