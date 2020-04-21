@@ -202,7 +202,8 @@ see the [tags on this repository][tags].
 
 ## Authors
 
-- **Andreas Krennmair** - *Initial work* [akrennmair](https://github.com/akrennmair)
+- **Forud Ghafouri** - *Initial work* [fzerorubigd](https://github.com/fzerorubigd)
+- **Andreas Krennmair** - *floor package, schema parser* [akrennmair](https://github.com/akrennmair)
 
 See also the list of [contributors][contributors] who participated in this project.
 
